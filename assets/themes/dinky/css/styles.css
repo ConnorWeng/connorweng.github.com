@@ -377,6 +377,10 @@ footer {
     right:130px;
     top:84px;
   }
+
+  header > ul {
+    right:290px;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
