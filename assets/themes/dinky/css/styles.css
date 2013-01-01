@@ -295,8 +295,24 @@ a.buttons {
 	height: 30px;
 }
 
-a.github {
+.contact a {
+        padding-left: 20px;
+	background: url(../images/gmail-small.png) no-repeat 1px;
+}
+
+.github > a {
+        padding-left: 20px;
 	background: url(../images/octocat-small.png) no-repeat 1px;
+}
+
+.twitter > a {
+        padding-left: 20px;
+        Background: url(../images/twitter-small.png) no-repeat 1px;
+}
+
+.weibo > a {
+        padding-left: 20px;
+        Background: url(../images/weibo-small.png) no-repeat 1px;
 }
 
 a.buttons:hover {

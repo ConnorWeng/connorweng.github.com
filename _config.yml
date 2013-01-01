@@ -9,10 +9,11 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Jungo Lab
-tagline: Site Tagline
+tagline: Big things happen every seconds around the world.
 author :
   name : Connor Weng
   email : foamtea30@gmail.com
+  weibo : ConnorWeng
   github : ConnorWeng
   twitter : ConnorWeng
   feedburner : feedname
