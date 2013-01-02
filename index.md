@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<img src="assets/themes/dinky/images/self-banner.jpg"></img>
+<img src="assets/themes/dinky/images/self-banner.jpg"/>
 
 ## All Posts
 
