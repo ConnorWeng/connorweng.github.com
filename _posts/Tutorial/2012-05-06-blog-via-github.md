@@ -2,8 +2,8 @@
 layout: post
 title: "如何在github上搭建博客"
 description: ""
-category: github
-tags: [git,blog]
+category: Tutorial
+tags: [Github,Blog]
 ---
 {% include JB/setup %}
 

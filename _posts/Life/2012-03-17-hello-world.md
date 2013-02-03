@@ -2,8 +2,8 @@
 layout: post
 title: "起航了! :(0)"
 description: ""
-category: ambitions
-tags: [心情,梦想]
+category: Life
+tags: [心情]
 date: 2012-03-17 16:36:34.000000000 +08:00
 ---
 {% include JB/setup %}

@@ -2,8 +2,8 @@
 layout: post
 title: "下一个实验品：Android Mail Client!"
 description: ""
-category: lab
-tags: [产品,实验,实验室]
+category: Product
+tags: [Lab]
 date: 2012-04-05 16:02:03.000000000 +08:00
 published: false
 ---
