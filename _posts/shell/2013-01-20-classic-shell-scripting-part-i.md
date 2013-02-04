@@ -62,25 +62,25 @@ UNIX的软件哲学经过了时间的历练与考验，其价值得到了充分�
 
 * 命令和参数
 
-    cd work ; ls -l
+      cd work ; ls -l
 
   cd是命令，work是参数。同样地，ls是命令，－l是参数。
 
 * 变量
 
-    myvar=this_is_a_long_string_that_does_not_mean_much
-    echo $myvar
+      myvar=this_is_a_long_string_that_does_not_mean_much
+      echo $myvar
 
 * 简单的输出
 
-    $ echo Now is the time for all good men
-    Now is the time for all good men
-    $ echo -n "Enter your name:"
-    Enter your name: _
+      $ echo Now is the time for all good men
+      Now is the time for all good men
+      $ echo -n "Enter your name:"
+      Enter your name: _
 
 * 功能更强的输出
 
-    printf format-string [arguments ...]
+      printf format-string [arguments ...]
 
 * 基本I/O重定向
   * 使用`<`重定向standard input
