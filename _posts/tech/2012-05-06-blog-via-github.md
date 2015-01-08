@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "如何在github上搭建博客"
+title: "如何在GitHub上搭建博客"
 description: ""
-category: Tutorial
-tags: []
+category: tech
+tags: [git]
 ---
 {% include JB/setup %}
 
-本教程包含了使用Github免费的pages功能搭建个人博客的方法。Github pages后台使用jekyll生成静态页面，所以我们可以方便地使用markdown，textile，或者emacs的org等语法来撰写博客。
+本教程包含了使用GitHub免费的pages功能搭建个人博客的方法。GitHub Pages后台使用jekyll生成静态页面，所以我们可以方便地使用markdown，textile，或者emacs的org等语法来撰写博客。
 
-## Why choose github?
+## Why choose GitHub?
 
 * 免费&稳定
 
@@ -29,7 +29,7 @@ tags: []
 
 ## Create a new repository
 
-首先你需要注册一个github的帐号，然后create a new repository，名字必须为`你的USERNAME.github.com`。
+首先你需要注册一个GitHub的帐号，然后create a new repository，名字必须为`你的USERNAME.github.com`。
 
 ## 安装Jekyll-Bootstrap
 
@@ -40,7 +40,7 @@ tags: []
 
 ## 等待
 
-因为实际上我们使用的是github pages来搭建博客，所以第一次大概需要10分钟左右初始化。欲了解更多，可以查看:[http://help.github.com/pages](http://help.github.com/pages)
+因为实际上我们使用的是GitHub Pages来搭建博客，所以第一次大概需要10分钟左右初始化。欲了解更多，可以查看:[http://help.github.com/pages](http://help.github.com/pages)
 
 ## 在本地运行Jekyll(非必须)
 

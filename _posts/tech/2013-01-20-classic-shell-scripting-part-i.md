@@ -2,8 +2,8 @@
 layout: post
 title: "从零开始，掌握SHELL脚本 -- PART I"
 description: ""
-category: Shell
-tags: []
+category: tech
+tags: [shell]
 ---
 {% include JB/setup %}
 
