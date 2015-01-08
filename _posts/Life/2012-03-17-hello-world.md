@@ -3,7 +3,7 @@ layout: post
 title: "起航了! :(0)"
 description: ""
 category: Life
-tags: [心情]
+tags: []
 date: 2012-03-17 16:36:34.000000000 +08:00
 ---
 {% include JB/setup %}

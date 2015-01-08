@@ -3,7 +3,7 @@ layout: post
 title: "下一个实验品：Android Mail Client!"
 description: ""
 category: Product
-tags: [Lab]
+tags: []
 date: 2012-04-05 16:02:03.000000000 +08:00
 published: false
 ---

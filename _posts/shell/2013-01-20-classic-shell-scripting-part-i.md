@@ -3,7 +3,7 @@ layout: post
 title: "从零开始，掌握SHELL脚本 -- PART I"
 description: ""
 category: Shell
-tags: [Learning]
+tags: []
 ---
 {% include JB/setup %}
 
@@ -40,7 +40,7 @@ UNIX的软件哲学经过了时间的历练与考验，其价值得到了充分�
 * Let someone else do the hard part
 
   不要重复造轮子，开始干活之前，先捡起手边已有的工具。
-  
+
 * Detour to build specialized tools
 
   自己开发工具时，应尽量考虑通用化，而不是针对某个特殊问题进行开发。
@@ -103,7 +103,7 @@ UNIX的软件哲学经过了时间的历练与考验，其价值得到了充分�
         tr -d '\r' < dos-file.txt | sort > unix-file.txt
 
   * 特殊文件：`/dev/null` 以及 `/dev/tty`
-  
+
     `/dev/null`又被称作`bit bucket`，任何数据写到该文件上都会直接被操作系统丢弃。具体来说，任何程序向该文件写数据，结果都是数据写入成功，但实际上什么事也没有发生。该特殊文件非常有用，例如有时你只在意命令的exit status，而不在乎该程序的任何输出：
 
         if grep pattern myfile > /dev/null

@@ -3,7 +3,7 @@ layout: post
 title: "Build for Fun,一款不会面世的小作品itaggie :(|)"
 description: ""
 category: Product
-tags: [Lab]
+tags: []
 date: 2012-04-05 13:17:33.000000000 +08:00
 published: false
 ---
